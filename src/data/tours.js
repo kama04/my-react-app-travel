@@ -1,0 +1,38 @@
+export const tours = [
+  {
+    id: "paris",
+    title: "Paris Weekend",
+    country: "France",
+    days: 3,
+    price: 249,
+    badge: "Top",
+    desc: "Eiffel Tower, croissants and the Seine's night lights.",
+  },
+  {
+    id: "rome",
+    title: "Rome Classic",
+    country: "Italy",
+    days: 4,
+    price: 319,
+    badge: "New",
+    desc: "Colosseum, pasta and walks through Trastevere.",
+  },
+  {
+    id: "barcelona",
+    title: "Barcelona Vibes",
+    country: "Spain",
+    days: 5,
+    price: 399,
+    badge: "Hot",
+    desc: "Sagrada, beach and tapas until late at night.",
+  },
+  {
+    id: "prague",
+    title: "Prague Fairytale",
+    country: "Czechia",
+    days: 3,
+    price: 219,
+    badge: "Budget",
+    desc: "Old town, bridges and atmospheric cafes.",
+  },
+];
